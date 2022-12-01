@@ -11,8 +11,8 @@ const projectName = "my-blog";
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: `https://${this.organizationName}.github.io`,
-  baseUrl: `/${this.projectName}/`,
+  url: `https://${organizationName}.github.io`,
+  baseUrl: `/${projectName}/`,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
