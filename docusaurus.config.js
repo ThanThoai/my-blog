@@ -9,7 +9,7 @@ const projectName = "my-blog";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'ThanThoai',
   tagline: 'Dinosaurs are cool',
   url: `https://${organizationName}.github.io`,
   baseUrl: `/${projectName}/`,
